@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+
+#general {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    margin-top: 10px;
+}
+
+#texto{
+    padding: 0 18px 18px 18px;
+}
+
+#iconos-izquierda {
+    float: right;
+}
+#iconos-derecha {
+    float: left;
+}
+
+#iconos{
+    padding: 18px;
+}
+#html5-text{
+    float: left;
+}
+
+#icono-puntos{
+    float: right;
+
+}
+#header {
+    padding: 18px;
+}
+
+#text-html5 {
+    display: flex;
+}
+
+#html5-text{
+    display: flex;
+    align-items: center;
+}
+
+#icono-html5 {
+    padding-right: 10px;
+}
+
